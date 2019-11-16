@@ -1,0 +1,428 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1900px) {}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    #top h2 {
+        padding: 24px;
+        font-size: 26px;
+    }
+
+    #top p {
+        padding-right: 0;
+        font-size: 16px;
+    }
+
+    #main .left h3 {
+        padding-right: 15px;
+        font-size: 18px;
+    }
+
+    #main .left ul li a {
+        font-size: 15px;
+    }
+
+    #main .left .bot-ul h4 {
+        margin-bottom: 10px;
+    }
+
+    #main .right .items {
+        padding: 19px 20px 20px;
+    }
+
+    #main .right .items h4 {
+        margin-top: 14px;
+        font-size: 18px;
+    }
+
+    #main .right .items span {
+        font-size: 14px;
+    }
+
+    #main .right .items .mm li {
+        font-size: 11px;
+        margin-top: 8px;
+    }
+
+    #main .right .it-bot ul li:last-child {
+        font-size: 7px;
+        font-weight: 700;
+    }
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #top h2 {
+        padding: 23px;
+        font-size: 18px;
+    }
+
+    #top p {
+        padding-right: 0;
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    #main .left h3 {
+        padding-right: 15px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    #main .left ul li a {
+        font-size: 15px;
+        text-align: center;
+        font-size: 18px;
+    }
+    #main .left ul li a:hover{
+        background: #4457bf;
+    }
+    #main .left .four{
+        margin: 20px 15px;
+    }
+    #main .left .cost-sign{
+        letter-spacing: 0;
+    }
+
+    #main .left .bot-ul h4 {
+        margin-bottom: 10px;
+        font-size: 20px;
+    }
+/*  #main .left part end  */
+    
+    
+    .styled-input-single label{
+        font-size: 20px;
+    }
+    
+    #main .right .items a img{
+        width: 230px;
+        height: 160px;
+    }
+    
+    
+    #main .right .items {
+        padding: 19px 20px 20px;
+    }
+
+    #main .right .items h4 {
+        margin-top: 14px;
+        font-size: 30px;
+    }
+
+    #main .right .items span {
+        font-size: 20px;
+    }
+
+    #main .right .items .mm li {
+        font-size: 16px;
+        margin-top: 8px;
+    }
+    #main .right .it-bot ul li{
+        
+    }
+    #main .right .botm{
+        margin: 30px 70px;
+    }
+    #main .right .botm p{
+        font-size: 20px;
+    }
+    #main .right .it-bot ul li:last-child {
+        font-size: 14px;
+        font-weight: 700;
+        padding: 0 24px;
+    }
+
+    
+/* model past start*/
+    .modal-content .modal-body .left h4{
+        font-size: 24px;
+    }
+        .modal-content .modal-body .left ul li a{
+        line-height: 40px;
+        font-size: 18px;
+    }
+    .modal-content .modal-body .left ul li a:hover{
+        background: #fff;
+        color: #1b1464;;
+    }
+    .modal-body .right h3{
+        margin-top: 40px;
+        font-size: 20px;
+    }
+    .modal-body .right ul .one{
+        font-size: 18px;
+    }
+    .modal-body .right ul .two{
+        font-size: 16px;
+    }
+    .modal-body .right p{
+        font-size: 19px;
+    }
+    .modal-body .right .md-bot ul .mo-last:last-child{
+        font-size: 18px;
+        padding: 0 44px;
+    }
+/* model past end*/
+
+}
+
+/* Extra small Device. */
+@media (min-width: 576px) and (max-width: 767px) {
+        #top h2 {
+        padding: 16px;
+        font-size: 18px;
+    }
+
+    #top p {
+        padding-right: 30px 0;
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    #main .left h3 {
+        padding-right: 15px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    #main .left ul li a {
+        font-size: 15px;
+        text-align: center;
+        font-size: 18px;
+    }
+    #main .left ul li a:hover{
+        background: #4457bf;
+    }
+    #main .left .four{
+        margin: 20px 15px;
+    }
+    #main .left .cost-sign{
+        letter-spacing: 0;
+        margin-bottom: 50px;
+    }
+    #main .right .it-bot{
+        margin: 10px 10px 40px;
+    }
+    #main .left .bot-ul h4 {
+        margin-bottom: 10px;
+        font-size: 20px;
+    }
+    #main .right .botm p{
+        font-size: 17px;
+    }
+/*  #main .left part end  */
+    
+    
+    .styled-input-single label{
+        font-size: 20px;
+    }
+    
+    #main .right .items a img{
+        width: 340px;
+    }
+    
+    
+    #main .right .items {
+        padding: 19px 20px 20px;
+    }
+
+    #main .right .items h4 {
+        margin-top: 14px;
+        font-size: 35px;
+    }
+
+    #main .right .items span {
+        font-size: 25px;
+        margin: 10px 0 0;
+    }
+
+    #main .right .items .mm li {
+        font-size: 19px;
+        margin-top: 8px;
+    }
+    #main .right .it-bot ul li{
+        padding: 10px 18px;
+    }
+    #main .right .botm{
+        margin: 30px 70px;
+    }
+    #main .right .botm p{
+        font-size: 17px;
+    }
+    #main .right .it-bot ul li:last-child {
+        font-size: 18px;
+        font-weight: 700;
+        padding: 5px 40px;
+    }
+
+    
+/* model past start*/
+    .modal-content .modal-body .left h4{
+        font-size: 24px;
+    }
+        .modal-content .modal-body .left ul li a{
+        line-height: 40px;
+        font-size: 18px;
+    }
+    .modal-content .modal-body .left ul li a:hover{
+        background: #fff;
+        color: #1b1464;;
+    }
+    .modal-body .right h3{
+        margin-top: 40px;
+        font-size: 20px;
+    }
+    .modal-body .right ul .one{
+        font-size: 18px;
+    }
+    .modal-body .right ul .two{
+        font-size: 16px;
+    }
+    .modal-body .right p{
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .modal-body .right .md-bot ul .mo-last:last-child{
+        font-size: 18px;
+        padding: 0 44px;
+    }
+    .modal-body .right .md-bot ul li:last-child{
+        font-size: 16px;
+        padding: 0 90px;
+    }
+/* model past end*/
+}
+
+/* SM Small Device :550px. */
+@media (min-width: 320px) and (max-width: 575px) {
+    .our-con{
+        padding: 40px 30px 0 30px;    
+    }
+    #top h2 {
+        padding: 13px;
+        font-size: 16px;
+    }
+
+    #top p {
+        padding: 30px 0 0px;
+        font-size: 16px;
+        line-height: 25px;
+    }
+    #main .main-con{
+        padding:  0 30px 30px;
+    }
+    #main .left h3 {
+        padding-right: 15px;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    #main .left ul li a {
+        font-size: 15px;
+        text-align: center;
+        font-size: 18px;
+    }
+    #main .left ul li a:hover{
+        background: #4457bf;
+    }
+    #main .left .four{
+        margin: 20px 15px;
+    }
+    #main .left .cost-sign{
+        letter-spacing: 0;
+        margin-bottom: 50px;
+    }
+    #main .right .it-bot{
+        margin: 10px 10px 40px;
+    }
+    #main .left .bot-ul h4 {
+        margin-bottom: 10px;
+        font-size: 20px;
+    }
+    #main .right .botm p{
+        font-size: 17px;
+    }
+/*  #main .left part end  */
+    
+    
+    .styled-input-single label{
+        font-size: 20px;
+    }
+    
+    #main .right .items a img{
+        width: 340px;
+    }
+    
+    
+    #main .right .items {
+        padding: 19px 20px 20px;
+    }
+
+    #main .right .items h4 {
+        margin-top: 14px;
+        font-size: 28px;
+    }
+
+    #main .right .items span {
+        font-size: 20px;
+        margin: 10px 0 0;
+    }
+
+    #main .right .items .mm li {
+        font-size: 16px;
+        margin-top: 8px;
+    }
+    #main .right .it-bot ul li{
+        padding: 10px 18px;
+    }
+    #main .right .botm{
+        margin: 30px 0px 40px;
+    }
+    #main .right .botm p{
+        font-size: 17px;
+    }
+    #main .right .it-bot ul li:last-child {
+        font-size: 11px;
+        font-weight: 700;
+        padding: 5px 8px;
+    }
+
+    
+/* model past start*/
+    .modal-content .modal-body .left h4{
+        font-size: 24px;
+    }
+        .modal-content .modal-body .left ul li a{
+        line-height: 40px;
+        font-size: 18px;
+    }
+    .modal-content .modal-body .left ul li a:hover{
+        background: #fff;
+        color: #1b1464;;
+    }
+    .modal-body .right h3{
+        margin-top: 40px;
+        font-size: 20px;
+    }
+    .modal-body .right ul .one{
+        font-size: 18px;
+    }
+    .modal-body .right ul .two{
+        font-size: 16px;
+    }
+    .modal-body .right p{
+        font-size: 20px;
+        line-height: 26px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    .modal-body .right .md-bot ul .mo-last:last-child{
+        font-size: 18px;
+        padding: 0 44px;
+    }
+    .modal-body .right .md-bot ul li:last-child{
+        font-size: 12px;
+        padding: 0 8px;
+    }
+}

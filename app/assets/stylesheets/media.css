@@ -1,0 +1,1357 @@
+@media(min-width:320px) and (max-width:575px){
+    
+    
+ 
+     /*  Basket-con Starts  */
+    #basket-con .spec  h4{
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+    #basket-con .spec h6{
+        font-size: 11px;
+    }
+    #basket-con .spec p{
+        font-size: 11px;
+    }
+    #basket-con .quant h4{
+        font-size: 13px;
+    }
+   
+    #basket-con .fix h4{
+        font-size: 13px;
+         margin-bottom: 0;
+    }
+    #basket-con .fix {
+        margin-top: 20px;
+    }
+    #basket-con .quant{
+        margin-top: 20px;
+    }
+    #basket-con .quant span{
+      top: 80px;
+        font-size: 13px;
+        
+    }
+       #basket-con .quant .btns ul li
+    #basket-con .quant .btns ul li button {
+	    padding: 0px 12px;
+	
+	    font-size: 18px;
+    }
+    
+    #basket-con .forpd .forp0{
+        padding: 0;
+    }
+    #basket-con .wbg{
+        padding: 0;
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+    }
+    #basket-con .wbg .close-btn{
+        right: 10px;
+        top: 0;
+    }
+    #basket-con .wbg .close-btn i{
+        font-size: 12px;
+    }
+    
+    #basket-con .fix ul li button{
+        font-size: 8px;
+        padding-right: 0;
+    }
+    #basket-con .quant .btns ul li button{
+        padding-right: 8px;
+        padding-left: 8px;
+        font-size: 13px;
+    }
+    #basket-con .fix ul li {
+	margin: 5px 0;
+	text-transform: uppercase;
+}
+    
+    #basket-con .sum .cntnt ul li{
+        font-size: 14px;
+    }
+    
+    #basket-con .sum .cntnt ul li span{
+        font-size: 14px;
+    }
+    
+/* Checkout Page starts   */
+    #checkout .smp{
+        padding: 0;
+    }
+    #checkout .dl-ad .heading h5, #checkout .bl-ad .heading h5{
+        font-size: 15px;
+    }
+    #checkout .dl-ad .cntnt, #checkout .bl-ad .cntnt{
+        padding: 15px;
+    }
+    #checkout .dl-ad .cntnt p, #checkout .bl-ad .cntnt p{
+        font-size: 13px;
+    }
+    #checkout .dl-ad .cntnt .edit-bttn, #checkout .bl-ad .cntnt .edit-bttn{
+        bottom: 10px;
+        right: 10px;
+    }
+    #checkout .dl-ad .cntnt .edit-bttn button, #checkout .bl-ad .cntnt .edit-bttn button{
+        font-size: 12px;
+    }
+    #checkout .forpd{
+        padding: 0 10px;
+    }
+    
+    #checkout .pay-m .heading h5{
+        font-size: 15px;
+    }
+    
+    #checkout .pay-m .content .nav-pills .nav-item .acc{
+        font-size: 11px;
+      
+        padding: 0 3px;
+    }
+    #checkout .pay-m .content .nav-pills .nav-item{
+        display: inline-block;
+    }
+
+    
+    #checkout .pay-m .content .nav-pills .nav-item{
+        margin: 0px 15px;
+        margin-bottom: 0;
+    }
+    #checkout .pay-m .content .tab-content .tab-pane .cntc{
+        padding: 0;
+    }
+    #checkout .pay-m .content .tab-content .tab-pane .cntc label{
+        position: inherit;
+        color: #fff;
+        left: 0;
+        
+    }
+    
+    #checkout .pay-m .content .tab-content .tab-pane .cntc input{
+        padding: 0 10px;
+    }
+    #checkout .sum{
+        margin-top: 50px;
+    }
+    
+    /* checkout-edit   */
+    #checkout .dl-ad .cntnt .saved-add a, #checkout .bl-ad .cntnt .saved-add a{
+        font-size: 11px;
+    }
+    #checkout .dl-ad .cntnt .saved-add, #checkout .bl-ad .cntnt .saved-add{
+        bottom: 5px;
+    }
+    #checkout .dl-ad .cntnt .edit-bttn, #checkout .bl-ad .cntnt .edit-bttn{
+        bottom: 5px;
+    }
+    #checkout .sum .disc button{
+        margin-left: 40%;
+    }
+    
+     /* Customer / c-login Login Starts  */
+    
+    #c-login .head{
+        padding-left: 0;
+        margin-bottom: 30px;
+    }
+    
+    #c-login .head h4 {
+	font-size: 22px;
+
+	padding: 10px 15px;
+}
+    #c-login .content{
+        margin: 0;
+        padding-bottom: 80px;
+    }
+    #c-login .content .txt{
+        text-align: left;
+    }
+    #c-login .content .txt h5 {
+	    font-size: 19px;
+	    padding: 12px 16px;
+}
+    #c-login .content{
+     
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    #c-login .content input{
+        width: 100%;
+        
+    }
+   
+     /* order successful / order-s  Starts  */
+    
+    
+    #order-s .head{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    
+     #order-s .head h4 {
+         
+	    font-size: 26px;
+	    padding: 15px 13px;
+}
+    #order-s .head p {
+	font-size: 14px;
+
+	padding: 10px 0;
+	display: inline;
+	line-height: 50px;
+}
+    #order-s .cntnt{
+        margin: 0;
+    }
+    #order-s .cntnt .main p.up{
+        padding-bottom: 0;
+        font-size: 14px;
+    }
+    #order-s .cntnt .text{
+        padding: 0 20px;
+        padding-bottom: 50px;
+    }
+    
+    #order-s .cntnt .text p {
+	color: #fff;
+	font-size: 15px;
+
+	padding: 0;
+}
+    #order-s .cntnt .text a{
+        font-size: 13px;
+    }
+    
+     /*    Payment failed  */
+    #order-s.pymf .cntnt .for-txt p {
+        font-size: 14px;
+
+        padding: 10px 5px;
+
+        display: inline;
+
+        line-height: 50px;
+    }
+    #order-s.pymf .cntnt .click p{
+        padding: 0;
+        line-height: 30px;
+    }
+    
+        
+#order-s.pymf .txt h6 {
+	font-size: 30px;
+}
+    #order-s.pymf .txt p {
+	font-size: 20px;
+}
+    
+    /*    Register  */
+    #register .head{
+        padding-left: 0; 
+    }
+    #register .content{
+        margin: 0;
+    }
+   #register .head h4 {
+	    font-size: 20px;
+	    padding: 10px 10px;
+    }
+    #register .content ul li a{
+        font-size: 17px;
+    }
+    
+    #register .content p{
+        font-size: 15px;
+    }
+    
+    #register .txt h6{
+        font-size: 30px;
+    }
+    #register .txt p{
+        font-size: 20px;
+    }
+    
+    
+    #register .content.rg{
+        padding: 0;
+        
+    }
+    #register .content.rg label{
+        font-size: 11px;
+        bottom: 8px;
+        left: 20px;
+    }
+    #register .content.rg input{
+        padding-left: 48%;
+    }
+    #register .txt.rg h6{
+        font-size: 26px;
+    }
+    
+    
+    #register .content.rg input.sp{
+            padding-left:65%;
+    }
+    
+}
+
+
+
+@media(min-width:576px) and (max-width:767px){
+        
+
+    
+    /*  Basket-con Starts  */
+    
+    #basket-con .fix {
+        margin-top: 20px;
+    }
+    #basket-con .quant{
+        margin-top: 20px;
+    }
+    #basket-con .quant span{
+      top: 100px;
+        
+    }
+    
+    #basket-con .quant .btns ul li button {
+	    padding: 0px 12px;
+	
+	    font-size: 18px;
+    }
+    
+    
+    /* Checkout Page starts   */
+    #checkout .smp{
+        padding: 0;
+    }
+    #checkout .forpd{
+        padding: 0 20px;
+    }
+    
+     #checkout .pay-m .content .nav-pills .nav-item .acc{
+        font-size: 13px;
+      
+        
+    }
+    #checkout .pay-m .content .nav-pills .nav-item{
+        display: inline-block;
+    }
+    #checkout .pay-m .content .nav-pills .nav-item:first-child {
+	margin: 0 20px;
+}
+    
+    #checkout .pay-m .content .nav-pills .nav-item{
+        margin: 0px 15px;
+        margin-bottom: 0;
+    }
+    #checkout .pay-m .content .tab-content .tab-pane .cntc label{
+        font-size: 12px;
+    }
+    #checkout .pay-m .content .tab-content .tab-pane .cntc label{
+        bottom: -3px;
+        left: 20px;
+    }
+    #checkout .sum{
+        margin-top: 50px;
+    }
+    
+    /* checkout edit   */
+    
+    #checkout .sum .disc button{
+        margin-left: 65%;
+    }
+    
+    /* checkout-a1-edit   */
+    #checkout .pay-m .content .invl-acc {
+	margin: 0 15px;
+     margin-bottom: 10px;
+}
+    
+      /* Customer / c-login Login Starts  */
+    
+    #c-login .head{
+        padding-left: 0;
+        margin-bottom: 30px;
+    }
+    
+    #c-login .head h4 {
+	font-size: 22px;
+
+	padding: 10px 15px;
+}
+    #c-login .content{
+        margin: 0;
+        padding-bottom: 80px;
+    }
+    #c-login .content .txt{
+        text-align: left;
+    }
+    #c-login .content .txt h5 {
+	    font-size: 19px;
+	    padding: 12px 16px;
+}
+    #c-login .content{
+     
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    #c-login .content input{
+        width: 100%;
+        
+    }
+    #c-login .content input{
+        line-height: 40px;
+    }
+    
+       
+     /* order successful / order-s  Starts  */
+    
+    
+    #order-s .head{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    
+     #order-s .head h4 {
+         
+	    font-size: 26px;
+	    padding: 15px 13px;
+}
+    #order-s .head p {
+	font-size: 14px;
+    text-align: left;
+        padding-left: 10px;
+}
+    #order-s .cntnt{
+        margin: 0;
+    }
+    #order-s .cntnt .main p.up{
+        padding-bottom: 0;
+        font-size: 14px;
+    }
+    #order-s .cntnt .text{
+        padding: 0 20px;
+        padding-bottom: 50px;
+    }
+    
+    #order-s .cntnt .text p {
+	color: #fff;
+	font-size: 18px;
+
+}
+    #order-s .cntnt .text a{
+        font-size: 15px;
+    }
+    
+    
+         /*    Payment failed  */
+    #order-s.pymf .cntnt .for-txt p {
+        font-size: 14px;
+
+        padding: 10px 5px;
+
+        display: inline;
+
+        line-height: 50px;
+    }
+    #order-s.pymf .cntnt .click p{
+        padding: 0;
+        line-height: 30px;
+    }
+    
+    
+#order-s.pymf .txt h6 {
+	font-size: 30px;
+}
+    #order-s.pymf .txt p {
+	font-size: 20px;
+}
+    
+    
+       /*    Register  */
+    #register .head{
+        padding-left: 0; 
+    }
+    #register .content{
+        margin: 0;
+    }
+    
+    
+      
+    #register .content.rg{
+        padding: 0;
+        
+    }
+    #register .content.rg label{
+        font-size: 11px;
+        bottom: 8px;
+        left: 20px;
+    }
+    #register .content.rg input{
+        padding-left: 30%;
+    }
+    #register .txt.rg h6{
+        font-size: 26px;
+    }
+    
+    
+    
+}
+
+
+
+
+
+
+@media(min-width:768px) and (max-width:991px){
+    
+    
+    
+    /*  Basket-con Starts  */
+    
+    #basket-con .wrn{
+        padding-top: 15px;
+    }
+    #basket-con .spec h4{
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+    #basket-con .spec p{
+        font-size: 13px;
+    }
+    
+    #basket-con .fix  h4{
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+    #basket-con .fix ul li button{
+      font-size: 10px;
+        padding-right: 0;
+    }
+    #basket-con .fix ul li {
+      margin: 5px 0;
+    }
+    
+    
+    #basket-con .quant   h4{
+        font-size: 15px;
+       
+    }
+    #basket-con .quant .btns ul li button{
+        font-size: 12px;
+        padding: 0 7px;
+    }
+    
+    #basket-con .quant span{
+        font-size: 12px;
+        right: -20px;
+    }
+    
+    #basket-con .sum .heading h6{
+        font-size: 16px;
+    }
+    #basket-con .sum .cntnt ul li{
+        font-size: 14px;
+    }
+    #basket-con .sum .cntnt ul li span{
+        font-size: 14px;
+    }
+    
+    #basket-con .sum .cn-shop a{
+        font-size: 14px;
+    }
+    
+    
+    /* Checkout   */
+    
+    #checkout .forpd{
+        padding: 0 15px;
+    }
+    
+    #checkout .pay-m .content .nav-pills .nav-item .acc{
+        padding: 0 5px;
+        font-size: 17px;
+    }
+    #checkout .pay-m .content .tab-content .tab-pane .cntc label{
+        font-size: 12px;
+        left: 28px;
+    }
+    #checkout .pay-m .content .tab-content .tab-pane .cntc input{
+        padding-left: 52%;
+    }
+    
+    #checkout .pay-m .content .we-acc button{
+        padding: 10px 30px;
+        margin-top:  20px;
+        font-size: 18px;
+    }
+    
+    /* Checkout edit    */
+    
+    #checkout .sum .disc button{
+        margin-left: 10%;
+    }
+    
+    
+    
+     /* order successful / order-s  Starts  */
+    
+    #order-s .cntnt{
+        margin: 0 30px;
+    }
+    #order-s .head p{
+        font-size: 14px;
+    }
+    
+    
+    /*    Payment failed  */
+
+    #order-s.pymf .cntnt .click p{
+        padding: 0;
+    }
+    #order-s.pymf  .cntnt .for-txt p{
+        font-size: 20px;
+    }
+    
+    
+    /* register   */
+   
+    #register .content.rg{
+        margin-right: 20px;
+        margin-left: 20px;
+        padding: 50px 30px;
+    }
+    #register .content.rg label{
+        font-size: 15px;
+        bottom: 6px;
+    }
+    #register .content.rg input{
+        padding-left: 38%;
+    }
+    
+    #register .content.rg input.sp{
+            padding-left:45%;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px){
+
+    
+    /* Bst-sel -slider   */
+    
+    #bst-sel .content a{
+        padding: 0 5px;
+        font-size: 14px;
+    }
+    
+    #bst-sel .content .txt{
+        padding: 15px;
+    }
+    
+    /*  Checkout  */
+   
+    #checkout .pay-m .content .nav-pills .nav-item .acc{
+        padding: 0 26px;
+    }
+    
+    /* Checkout edit    */
+    
+    #checkout .sum .disc button{
+        margin-left: 30%;
+    }
+    
+}
+
+
+
+/* Lg screen devices - 992px */
+/* Medium screen devices - 768px */
+/* Small screen devices - 576px  */
+/* Extra Small screen devices - 320px  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* header and footer starts */
+
+@media(min-width:992px) and (max-width:1199px){
+/*  Nav/menu  */
+    .navigation nav .nav-real .nav-item .nav-link{
+        font-size: 15px;
+    }
+    .navigation nav .nav-real .dropdown .nav-link{
+        font-size: 15px;
+    }
+    .dropdown-content a{
+        font-size: 13px;
+    }
+    
+ 
+    
+    /* footer   */
+    footer .head h6{
+        font-size: 16px;
+    }
+    
+}
+
+@media(min-width:768px) and (max-width:991px){
+    
+    /* Nav/menu   */
+    .navigation nav .navbar-brand{
+       display: none;
+    }
+    
+    .navigation nav .nav-extra .navbar-nav .basket a {
+	    line-height: 39px;
+    }
+    
+    .navigation nav .nav-real .nav-item .nav-link{
+        padding-right: 10px;
+    }
+    
+    .navigation nav .nav-real .nav-item .nav-link{
+        padding-left: 10px;
+    }
+    .navigation nav .nav-real .nav-item .nav-link{
+        font-size: 14px;
+    }
+    .navigation nav .nav-real .dropdown .nav-link{
+        font-size: 14px;
+    }
+    .navigation nav .nav-extra .navbar-nav .account{
+        font-size: 10px;
+    }
+    
+    .navigation nav .nav-extra .navbar-nav .for-clss form button{
+        font-size: 10px;
+    }
+    .navigation nav .nav-extra .navbar-nav .for-clss form input{
+        font-size: 11px;
+       padding: 5px 5px;
+    }
+    
+    .navigation nav .nav-extra .navbar-nav .for-clss form{
+        margin-top: 10px;
+    }
+    .navigation nav .nav-extra .navbar-nav .for-srch-icons i{
+       font-size: 12px;
+        padding: 0 10px;
+    }
+    .navigation nav .nav-extra .navbar-nav .basket button{
+        padding: 0 10px;
+    }
+    .navigation nav .nav-extra .navbar-nav .basket button img{
+        width: 80%;
+    }
+    
+    .navigation nav .nav-extra .navbar-nav .account{
+        padding: 0 15px;
+    }
+    .dropdown-content{
+        min-width: 180px;
+    }
+    .dropdown-content a{
+        font-size: 13px;
+        padding: 10px 0;
+        padding-left: 15px;
+        line-height: 15px;
+    }
+    
+    
+    .dropdown-content.for-basket .vbasket{
+        font-size: 12px;
+    }
+    
+    
+    /*  Bst-sel - slider  */
+    #bst-sel .bst-sel-sliderr{
+        padding: 0;
+    }
+    
+    #bst-sel .content {
+        width: 100%;
+    }
+    
+     #bst-sel .content a{
+        padding: 0 5px;
+        font-size: 14px;
+    }
+    
+    #bst-sel .content .txt{
+        padding: 15px;
+    }
+
+   
+    #bst-sel .content{
+        padding: 5px 0;
+    }
+    
+    /*  Subs  */
+    
+    #bst-sel .subs .e-sub form input{
+        width: 65%;
+    }
+    
+    #bst-sel .subs .e-sub form button{
+        font-size: 14px;
+        padding: 0 5px;
+    }
+    
+
+}
+
+@media(min-width:576px) and (max-width:767px){
+        
+/*  nav/menu  */
+    .for-l{
+        display: none !important;
+    }
+      .for-s{
+        display: flex;
+        padding: 0;
+    }
+    .for-s .navbar-brand{
+        margin: 0;
+        padding-left: 15px;
+    }
+    .navbar-light .navbar-toggler{
+        padding: 0 10px;
+        border: none;
+        background: none;
+        background: #fff;
+    }
+    
+    .for-s .menu{
+        padding-left: 30%;
+        
+    filter:  drop-shadow(0px 1px 4px #171717);
+    }
+    
+    
+    .for-s .menu li{
+        background: #1b1464;
+
+        
+    }
+    .for-s.navbar-light .navbar-nav .nav-link{
+        padding-left: 15px !important;
+        
+    }
+
+    .navbar-light .navbar-nav .nav-link{
+        cursor: pointer;
+        color: #fff !important;
+        font-family:'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 15px;
+    }
+    
+    .for-s .dropdown-menu{
+        background: none;
+        border: none;
+        
+    }
+    
+    .for-s .dropdown-item{
+        color: #fff ;
+        font-family:'Raleway', sans-serif;
+        font-size: 14px;
+    }
+    .for-s .dropdown-item:hover{
+        background: #fff !important;
+        color: #1b1464 !important;
+    }
+    
+    .for-s .dropdown-item {
+
+        padding: .25rem 1rem;
+     
+        font-weight: 700;
+    }
+    .for-s .dropdown:hover .dropdown-content{
+        margin-top: 44px;
+    }
+    
+    .for-s .dropdown-divider{
+        background: #1b1464;
+        margin: 0 !important;
+        border-color: #fff;
+    }
+    
+    .for-s .dropdown-menu{
+        padding: 0;
+        margin: 0;
+        
+    }
+    
+    
+    
+    .for-s form{
+        width: 46%;
+    }
+    
+    
+    .for-s form input{
+        width: 80%;
+    }
+    
+    
+    
+    .for-s button.account {
+        background: #ed1c24;
+        border: none;
+        font-size: 15px;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-family: 'Raleway', sans-serif;
+        color: #fff;
+        line-height: 44px;
+        padding: 0 12px;
+        cursor: pointer;
+    }
+    
+    
+    
+    
+    .for-s .basket-forsm {
+        border: none;
+        background: #1b1464;
+        line-height: 44px;
+        padding: 0 10px;
+        cursor: pointer;
+    }
+    
+    .for-s .srch{
+        background: #4457bf;
+        padding: 9px 0;
+       
+    }
+    .for-s .srch input{
+        margin-left: 5px;
+        border: none;
+        color: #000;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 300;
+        font-size: 12px;
+        padding: 3px 3px;
+    }
+    
+    .for-s .srch button {
+        background: none;
+        border: none;
+        margin-left: 5px;
+        cursor: pointer;
+    }
+    .for-s .srch button i{
+        color: #fff;
+    }
+    
+    .for-s .dropdown-toggle::after{
+        display: none;
+    }
+    .for-s  .dropdown {
+        position: relative;
+    }
+    .for-s  .dropdown  i{
+        font-size: 13px;
+        position: absolute;
+        right: 20px;
+        top: 15px;
+    }
+    
+    .for-s  .dropdown.show i{
+        transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        top: 13px;
+    }
+    
+    
+     /*  Bst-sel - slider  */
+    #bst-sel .bst-sel-sliderr{
+        padding: 0;
+    }
+    
+    #bst-sel .content {
+        width: 100%;
+    }
+    
+    #bst-sel .subs .for-bg{
+        background: none;
+    }
+    #bst-sel .subs .e-sub form input{
+        width: 76%;
+        
+    }
+   #bst-sel .subs .e-sub form {
+	background: #4457bf;
+	padding: 20px 30px;
+}
+    
+    #bst-sel .subs .txt p{
+        padding: 0;
+        text-align: center;
+    }
+    
+    /* footer   */
+    footer .head{
+        margin-bottom: 40px;
+    }
+    footer .help{
+        text-align: right;
+    }
+  
+    footer .loc {
+        text-align: right;
+    }
+    
+    
+
+    
+}
+
+@media(min-width:320px) and (max-width:575px){
+    
+    
+    
+/*  nav/menu  */
+    .for-l{
+        display: none !important;
+    }
+      .for-s{
+        display: flex;
+       
+        
+    }
+    
+    .navbar-light .navbar-toggler{
+        padding: 0 10px;
+        border: none;
+        background: none;
+        background: #fff;
+    }
+    
+    .for-s .menu{
+        padding-left: 30%;
+        
+    }
+    
+    .for-s .menu li{
+        background: #1b1464;
+    
+        
+    }
+    .for-s.navbar-light .navbar-nav .nav-link{
+        padding-left: 15px !important;
+        
+    }
+
+    .navbar-light .navbar-nav .nav-link{
+        cursor: pointer;
+        color: #fff !important;
+        font-family:'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 15px;
+    }
+    
+    .for-s .dropdown-menu{
+        background: none;
+        border: none;
+        
+    }
+    
+    .for-s .dropdown-item{
+        color: #fff ;
+        font-family:'Raleway', sans-serif;
+        font-size: 14px;
+    }
+    .for-s .dropdown-item:hover{
+        background: #fff !important;
+        color: #1b1464 !important;
+    }
+    
+    .for-s .dropdown-item {
+
+        padding: .25rem 1rem;
+     
+        font-weight: 700;
+    }
+    .for-s .dropdown:hover .dropdown-content{
+        margin-top: 44px;
+    }
+    
+    .for-s .dropdown-divider{
+        background: #1b1464;
+        margin: 0 !important;
+        border-color: #fff;
+    }
+    
+    .for-s .dropdown-menu{
+        padding: 0;
+        margin: 0;
+        
+    }
+    
+    
+    
+    .for-s form{
+        width: 50%;
+    }
+    
+    
+    .for-s form input{
+        width: 74%;
+    }
+    
+    
+    
+    .for-s button.account {
+        background: #ed1c24;
+        border: none;
+        font-size: 13px;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-family: 'Raleway', sans-serif;
+        color: #fff;
+        line-height: 44px;
+        padding: 0 10px;
+        cursor: pointer;
+    }
+    
+    
+    .for-s .basket-forsm {
+        border: none;
+        background: #1b1464;
+        line-height: 44px;
+        padding: 0 10px;
+        cursor: pointer;
+    }
+    
+    .for-s .srch{
+        background: #4457bf;
+        padding: 9px 0;
+       
+    }
+    .for-s .srch input{
+        margin-left: 5px;
+        border: none;
+        color: #000;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 300;
+        font-size: 12px;
+        padding: 3px 3px;
+    }
+    
+    .for-s .srch button {
+        background: none;
+        border: none;
+        margin-left: 5px;
+        cursor: pointer;
+    }
+    .for-s .srch button i{
+        color: #fff;
+    }
+    
+    
+    .for-s .navbar-brand{
+        display: none;
+    }
+    
+    .for-s .igno{
+        padding: 9px 0 !important;
+    }
+    
+    
+    
+     .for-s .dropdown-toggle::after{
+        display: none;
+    }
+    .for-s  .dropdown {
+        position: relative;
+    }
+    .for-s  .dropdown  i{
+        font-size: 13px;
+        position: absolute;
+        right: 20px;
+        top: 15px;
+    }
+    
+    .for-s  .dropdown.show i{
+        transform: rotate(180deg);
+        -webkit-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        top: 13px;
+    }
+     .for-s .menu{
+    
+        
+    filter:  drop-shadow(0px 1px 4px #171717);
+    }
+    
+     
+     /*  Bst-sel - slider  */
+    #bst-sel .bst-sel-sliderr{
+        padding: 0;
+    }
+    
+    #bst-sel .content {
+        width: 100%;
+    }
+    
+    #bst-sel .content a{
+        padding: 0 5px;
+        font-size: 14px;
+    }
+#bst-sel .txt{
+        padding: 5px;
+    }
+    #bst-sel .slick-current .content a{
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    
+    #bst-sel .subs .for-bg{
+        background: none;
+    }
+    #bst-sel .subs .e-sub form input{
+        width: 60%;
+        
+    }
+   #bst-sel .subs .e-sub form {
+	background: #4457bf;
+	padding: 20px 30px;
+}
+    #bst-sel .subs .e-sub form button{
+        padding: 0 10px;
+        font-size: 13px;
+    }
+    
+    #bst-sel .subs .txt p{
+        padding: 0;
+        text-align: center;
+    }
+    
+    footer .head h6{
+        font-size: 16px;
+    }
+    
+    /* footer   */
+    footer .head{
+        margin-bottom: 40px;
+    }
+    footer .help{
+        text-align: right;
+    }
+  
+    footer .loc {
+        text-align: right;
+    }
+    
+    
+    
+}
+
+/* extras */
+
+
+@media(min-width:320px) and (max-width:360px){
+     .for-s{
+        display: flex;
+        padding:0;
+        
+    }
+}
+
+@media(min-width:380px) and (max-width:575px){
+        .for-s{
+        display: flex;
+        padding-top: 0 !important;  
+        padding-bottom: 0 !important;  
+    }
+    
+    .for-s form {
+	width: 54% !important;
+}
+}
+
+@media(min-width:370px) and (max-width:380px){
+    .for-s form {
+	width: 50%;
+        
+}
+    
+     .for-s{
+        display: flex;
+        padding-top: 0;
+        padding-bottom: 0;
+        
+    }
+    
+    .for-s form {
+	width: 53%;
+}
+    
+}
+
+@media(min-width:361px) and (max-width:369px){
+     .for-s{
+        display: flex;
+        padding-top: 0;
+        padding-bottom: 0;
+        
+    }
+}
+
+
+@media(min-width:470px) and (max-width:575px){
+    .for-s .srch input{
+        margin-left: 15px !important;
+    }
+    .for-s form input {
+	    width: 80%  !important;
+    }
+    
+    .for-s form {
+	width: 63% !important;
+}
+}
+
+@media(min-width:540px) and (max-width:575px){
+    .for-s form {
+	width: 68% !important;
+}
+}
+
+
+
+
+
+
