@@ -3,7 +3,7 @@
     <div class="navigation for-l">
         
         <nav class="navbar navbar-expand-sm navbar-light p-0 ">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/">
                 <%= image_tag "brand-logo.png", class: "img-fluid", alt: "" %>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,7 +16,7 @@
                 <div class="nav-extra navbar-nav">
                     
                     <ul class="navbar-nav">
-                        <li><button class="account">Account</button></li>
+                        <li><%=button_to "Account", "/order", class:"account" %></li>
                         <li class="basket">
 
 
@@ -29,7 +29,9 @@
                                         <li>Total items <span>4</span></li>
                                         <li>Total <span>€82</span></li>
                                     </ul>
-                                    <a href="#" class="vbasket">View full basket</a>
+                                    
+                                    <%= link_to "View full basket", "/basket", :class => "vbasket" %>
+
                                 </div>
                             </ul>
 
@@ -76,23 +78,22 @@
                     </ul>
 
                     <li class="nav-item">
-
-                        <a class="nav-link" href="#">Design</a>
+                        <%=link_to "Design", "/design", class:"nav-link"%>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Hoarding</a>
+                        <%=link_to "Hoarding", "/hoarding", class:"nav-link"%>
                     </li>
                 
                 <ul class="dropdown navbar-nav">
-                        <button class="dropbtn nav-link">About Us</button>
+                        <%=button_to "About Us", "/about", class:"drpobtn nav-link" %>
                         <div class="dropdown-content">
-                            <a href="#">Contact Us</a>
+                            <%=link_to "Contact Us", "/contact" %>
                             
                         </div>
                     </ul>
                 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">FAQ</a>
+                        <%=link_to "FAQ", "/faq", class:"nav-link"%>
                     </li>
                 
                 

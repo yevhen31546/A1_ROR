@@ -7,6 +7,7 @@ Rails.application.routes.draw do
   get '/login' => 'users#login'
   get '/register' => 'users#register'
   get '/order' => 'users#order'
+  post '/order' => 'users#order'
   get '/delivery' => 'users#delivery'
   get '/account_setting' => 'users#account_setting'
   get '/account_edit' => 'users#account_edit'
@@ -22,6 +23,7 @@ Rails.application.routes.draw do
 
   resources :others
   get '/about' => 'others#about'
+  post '/about' => 'others#about'
   get '/contact' => 'others#contact'
   get '/custom_sign' => 'others#custom_sign'
   get '/custom_sign2' => 'others#custom_sign2'

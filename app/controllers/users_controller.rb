@@ -26,8 +26,8 @@ class UsersController < ApplicationController
         render :account_edit
     end
     
-    def communication_setting
-        render :communication_setting
+    def communication_settings
+        render :communication_settings
     end
 
     def delivery_edit
