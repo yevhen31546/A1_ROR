@@ -31,6 +31,7 @@ Rails.application.routes.draw do
   get '/faq' => 'others#faq'
   get '/hoarding' => 'others#hoarding'
   get '/product' => 'others#product'
+  post '/product' => 'others#product'
 
   resources :checkouts
   get '/business_login2' => 'checkouts#business_login2'
@@ -40,6 +41,7 @@ Rails.application.routes.draw do
   get '/checkout_a1' => 'checkouts#checkout_a1'
   get '/checkout_edit' => 'checkouts#checkout_edit'
   get '/checkout' => 'checkouts#checkout'
+  post '/checkout' => 'checkouts#checkout'
   get '/customer_register' => 'checkouts#customer_register'
   get '/order_successful' => 'checkouts#order_successful'
   get '/payment_failed' => 'checkouts#payment_failed'
