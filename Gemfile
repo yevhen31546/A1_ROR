@@ -30,7 +30,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
-  # gem 'sqlite3', '~> 1.4'
+  gem 'sqlite3', '~> 1.4'
 end
 
 group :development do
@@ -49,9 +49,6 @@ group :test do
   gem 'webdrivers'
 end
 
-group :production do
-  #gem 'pg', '~> 0.18'
-end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
