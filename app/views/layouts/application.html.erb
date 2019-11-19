@@ -11,8 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
-    <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
-    <%= javascript_include_tag "application", "jquery-1.12.4.min", "bootstrap.min", "fontawesome", "slick.min", "custom", "nav"  %>
+    
   </head>
 
   <body>
@@ -20,4 +19,6 @@
       <%= yield %>
     <%= render 'layouts/template/footer' %>
   </body>
+    <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag "application"  %>
 </html>
