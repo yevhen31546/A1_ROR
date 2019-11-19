@@ -1,4 +1,3 @@
-alert('asdf');
 $('.slider-active').slick({
     dots: true,
     infinite: false,
