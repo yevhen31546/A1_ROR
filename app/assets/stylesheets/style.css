@@ -254,9 +254,8 @@ button:focus {
     background: url(home/banner.jpg) no-repeat center;
     /* background: url("/assets/images/home/banner.jpg") no-repeat center; */
     /* background: image-url("home/banner.jpg"); */
-    /* background: url(asset-path("home/banner.jpg")) no-repeat center;
-    background: image-url('misty-road.png'); */
-    /* background-image: image-url("home/banner.jpg") no-repeat center; */
+    /* background-image: image-url("/assets/images/home/banner.jpg") no-repeat center; */
+    /* background: url(app/assets/images/home/banner.jpg) no-repeat center; */
     background-size: cover;
 }
 
